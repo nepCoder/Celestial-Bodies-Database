@@ -1,5 +1,6 @@
 # Celestial-Bodies-Database
 ## Introduction
+![FreeCodeCamp_CourseLink](https://bit.ly/3OvLIF9)
 
 ## Description
 
