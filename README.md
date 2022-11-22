@@ -4,6 +4,7 @@ This project is made while taking the relational-database course of [freeCodeCam
 he course link is 👉[Relational Database Course by FreeCodeCamp](https://www.freecodecamp.org/learn/relational-database/).
 
 ## Description
+This database is made using `PostgreSql`. It has following main components:
 ### Tables
 * Galaxy
 * Star
