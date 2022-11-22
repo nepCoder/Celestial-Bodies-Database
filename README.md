@@ -1,4 +1,4 @@
-<!--Celestial-Bodies-Database-->
+# Celestial-Bodies-Database
 > Instructions
 1. Pull repository or download **universe.sql** file.
 
