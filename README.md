@@ -1,6 +1,6 @@
 # Celestial-Bodies-Database
 ## Introduction
-This project is made while taking the relational-database course of [freeCodeCamp](https://www.freecodecamp.org). This is one of the required projects to earn certification of this course.
+This project is made while taking the relational-database course of [freeCodeCamp](https://www.freecodecamp.org). This is one of the required projects to earn certification.
 he course link is 👉[Relational Database Course by FreeCodeCamp](https://www.freecodecamp.org/learn/relational-database/).
 
 ## Description
