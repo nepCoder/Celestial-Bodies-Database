@@ -4,6 +4,18 @@ This project is made while taking the relational-database course of [freeCodeCam
 he course link is 👉[Relational Database Course by FreeCodeCamp](https://www.freecodecamp.org/learn/relational-database/).
 
 ## Description
+### Tables
+* Galaxy
+* Star
+* Planet
+* Planet_Type
+* Moon
+### Data-Types and Constraints
+👉Each of the tables has a `primary key`, at least two `not nullable` column, a column with `unique` contraint.<br>
+👉`Star` table has one `foreign key` referencing a column in `Galaxy` table.<br>
+👉`Planet` table has one `foreign key` referencing a column in `Star` table.<br>
+👉`Moon` table has one `foreign key` referencing a column in `Planet` table.<br>
+👉Data Types such as `INT`, `VARCHAR`, `TEXT`, `NUMERIC`, `BOOLEAN` are used wherever necessary.
 
 ## Getting Started
 1. Pull repository or download ***universe.sql*** file.
